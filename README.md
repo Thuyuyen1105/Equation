@@ -1,4 +1,3 @@
 # Equation
-*Code in C++
-Chương trình giải phương trình bậc 1, bậc 2, bậc 3 số thực 
-Xuât đáp án ra màn hình
+Code in C++
+Solve equations of degree 1, 2, and 3 of real numbers
